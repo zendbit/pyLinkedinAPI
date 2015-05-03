@@ -1,4 +1,4 @@
-# pyLinkedinAPI
+# pyLinkedinAPI (Version 1.0.0)
 python wrapper for simplify linkedin rest API 
 
 Dont forget to check REST API Documentation https://developer.linkedin.com/docs
